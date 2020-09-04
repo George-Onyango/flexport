@@ -76,7 +76,18 @@
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTI9KWPv8Fyg40McxXxOsF3XWomk1G4IMHUA&usqp=CAU);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 18px;
+    padding: 80px;
     position: relative;
     z-index: 1;
+}
+.contact-item h2 {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 18px;
+}
+.contact-item input[type="text"] {
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 50%;
 }
