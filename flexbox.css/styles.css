@@ -91,3 +91,9 @@
     padding: 15px;
     width: 50%;
 }
+.contact-item textarea{
+    border-radius: 10px;
+    height: 150px;
+    padding: 15px;
+    width: 50%;
+}
