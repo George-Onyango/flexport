@@ -30,3 +30,8 @@
     flex: 1;
     text-align: center;
 }
+.menu ul li a {
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
