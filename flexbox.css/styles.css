@@ -51,3 +51,11 @@
     margin-bottom: 20px;
     text-transform: uppercase;
 }
+.banner-text-item p {
+    font-size: 18px;
+}
+.main-content {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 5% 0;
+}
