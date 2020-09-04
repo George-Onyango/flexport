@@ -40,9 +40,14 @@
     display: flex;
     padding: 15% 0;
 }
-.banner-text-items {
+.banner-text-item {
     color: #fff;
     margin: auto;
     text-align: center;
     width: 50%;
+}
+.banner-text-item h2 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-transform: uppercase;
 }
