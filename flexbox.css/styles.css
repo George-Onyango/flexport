@@ -59,3 +59,9 @@
     flex-flow: row wrap;
     padding: 5% 0;
 }
+
+.main1 {
+    flex: 1;
+    padding: 5%;
+    text-align: center;
+}
