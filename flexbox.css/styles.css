@@ -40,3 +40,9 @@
     display: flex;
     padding: 15% 0;
 }
+.banner-text-items {
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
