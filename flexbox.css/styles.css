@@ -132,3 +132,7 @@
         flex-direction: column;
     }
 }
+.main1 a h2{
+    color: honeydew;
+    text-decoration: none;
+}
